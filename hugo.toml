@@ -1,4 +1,7 @@
 baseURL = "https://aakanksha0620.github.io/brew-bits"
+relativeURLs = true
+canonifyURLs = true
+uglyURLs = false
 languageCode = "en-us"
 title = "Brew Bits: Coding, Caffeine & Curiosity"
 theme = "PaperMod"
