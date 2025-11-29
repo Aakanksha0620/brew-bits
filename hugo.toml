@@ -1,0 +1,40 @@
+baseURL = "https://aakanksha0620.github.io/brew-bits"
+languageCode = "en-us"
+title = "Brew Bits: Coding, Caffeine & Curiosity"
+theme = "PaperMod"
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  defaultTheme = "auto"         # light/dark auto
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowToc = true
+  TocOpen = true
+  UseHugoToc = true
+  GiscusEnabled = false
+
+# Menu
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url  = "/"
+
+  [[menu.main]]
+    name = "Posts"
+    url  = "/posts/"
+
+  [[menu.main]]
+    name = "About"
+    url  = "/about/"
+
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "dracula"
