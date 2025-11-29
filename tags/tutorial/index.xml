@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tutorial on Brew Bits: Coding, Caffeine &amp; Curiosity</title><link>https://aakanksha0620.github.io/brew-bits/tags/tutorial/</link><description>Recent content in Tutorial on Brew Bits: Coding, Caffeine &amp; Curiosity</description><generator>Hugo -- 0.146.0</generator><language>en-us</language><lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aakanksha0620.github.io/brew-bits/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Brew Bits</title><link>https://aakanksha0620.github.io/brew-bits/posts/temp/</link><pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate><guid>https://aakanksha0620.github.io/brew-bits/posts/temp/</guid><description>&lt;p>Welcome to &lt;strong>Brew Bits&lt;/strong>! ☕💻&lt;br>
+Your weekly shot of &lt;em>coding + caffeine&lt;/em>.&lt;/p>
+&lt;hr>
+&lt;h2 id="-java-code-example">☕ Java Code Example&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kd">class&lt;/span> &lt;span class="nc">HelloBrew&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="kd">public&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kd">static&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kt">void&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="nf">main&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">String&lt;/span>&lt;span class="o">[]&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">args&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="n">System&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Hello, Brew Bits!&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="p">}&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="p">}&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="-sql-query-example">🗄️ SQL Query Example&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-sql" data-lang="sql">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">id&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">name&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">role&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">employees&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="k">WHERE&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">active&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">true&lt;/span>&lt;span class="p">;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="-mermaid-diagram-example">📊 Mermaid Diagram Example&lt;/h2>
+&lt;blockquote>
+&lt;p>Works if you enabled Mermaid in &lt;strong>hugo.toml&lt;/strong>:&lt;br>
+&lt;code>enableInlineShortcodes = true&lt;/code>&lt;br>
+&lt;code>markup.goldmark.renderer.unsafe = true&lt;/code>&lt;/p>&lt;/blockquote>
+&lt;pre tabindex="0">&lt;code class="language-mermaid" data-lang="mermaid">flowchart TD
+A[Request] --&amp;gt; B[Controller]
+B --&amp;gt; C[Service]
+C --&amp;gt; D[Database]
+&lt;/code>&lt;/pre>&lt;hr>
+&lt;h2 id="-image-example">🖼️ Image Example&lt;/h2>
+&lt;p>Place the image here:&lt;/p></description></item></channel></rss>
