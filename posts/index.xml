@@ -37,4 +37,4 @@ Your weekly shot of &lt;em>coding + caffeine&lt;/em>.&lt;/p>
 &lt;blockquote>
 &lt;p>Works if you enabled Mermaid in &lt;strong>hugo.toml&lt;/strong>:&lt;br>
 &lt;code>enableInlineShortcodes = true&lt;/code>&lt;br>
-&lt;code>markup.goldmark.renderer.unsafe = true&lt;/code>&lt;/p></description></item></channel></rss>
+&lt;code>markup.goldmark.renderer.unsafe = true&lt;/code>&lt;/p></description></item><item><title>GitHub Copilot Chatmodes</title><link>https://aakanksha0620.github.io/brew-bits/posts/genai/chatmode-basics/</link><pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate><guid>https://aakanksha0620.github.io/brew-bits/posts/genai/chatmode-basics/</guid><description>What, How, Why, When and Where of Chatmodes</description></item></channel></rss>
