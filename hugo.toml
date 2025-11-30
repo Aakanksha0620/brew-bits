@@ -36,14 +36,19 @@ uglyURLs = false
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
-    url  = "/posts/"
-    weight = 2
+	name = "Java"
+	url = "/posts/java/"
+	weight = 2
 
   [[menu.main]]
-    name = "About"
-    url  = "/about/"
-    weight = 3
+	name = "DSA"
+	url = "/posts/dsa/"
+	weight = 3
+
+  [[menu.main]]
+	name = "GenAI"
+	url = "/posts/genai/"
+	weight = 4
 
 # Syntax highlighting
 [markup]
