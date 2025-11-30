@@ -47,10 +47,16 @@ uglyURLs = false
 
 # Syntax highlighting
 [markup]
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true       # required for mermaid + HTML blocks
+
   [markup.highlight]
-    noClasses = false
-    guessSyntax = true
-    lineNos = true
+    noClasses = false     # required for PaperMod CSS
     codeFences = true
+    guessSyntax = true
     style = "dracula"
+    lineNos = true
+
 

@@ -48,21 +48,6 @@ flowchart TD
 
 ---
 
-## 🖼️ Image Example
-
-Place the image here:
-
-```
-static/images/architecture.png
-```
-
-Use it like this:
-
-```markdown
-![Architecture Diagram](/images/architecture.png)
-```
-
----
 
 ### Final Notes
 
