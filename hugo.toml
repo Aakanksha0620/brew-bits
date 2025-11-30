@@ -49,4 +49,8 @@ uglyURLs = false
 [markup]
   [markup.highlight]
     noClasses = false
+    guessSyntax = true
+    lineNos = true
+    codeFences = true
     style = "dracula"
+
