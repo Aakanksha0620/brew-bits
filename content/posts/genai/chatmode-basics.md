@@ -1,7 +1,7 @@
 +++
 title = "GitHub Copilot Chatmodes"
 date = 0
-draft = true
+draft = false
 tags = ["genai"]
 categories = ["GenAI DiveIn"]
 summary = "What, How, Why, When and Where of Chatmodes"
