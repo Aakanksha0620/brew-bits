@@ -1,4 +1,4 @@
-baseURL = "https://aakanksha0620.github.io/brew-bits"
+baseURL = "https://aakanksha0620.github.io/brew-bits/"
 relativeURLs = true
 canonifyURLs = true
 uglyURLs = false
