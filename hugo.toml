@@ -1,25 +1,31 @@
 baseURL = "https://aakanksha0620.github.io/brew-bits/"
-relativeURLs = false
-canonifyURLs = false
-uglyURLs = false
 languageCode = "en-us"
 title = "Brew Bits: Coding, Caffeine & Curiosity"
 theme = "PaperMod"
+
+# IMPORTANT FOR GITHUB PAGES
+relativeURLs = false
+canonifyURLs = false
+uglyURLs = false
 
 # Output formats
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+# PaperMod recommended config
 [params]
-  defaultTheme = "auto"         # light/dark auto
+  defaultTheme = "auto"
   ShowReadingTime = true
-  ShowCodeCopyButtons = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = true
   UseHugoToc = true
-  GiscusEnabled = false
+
+  # Optional
+  disableThemeToggle = false
+  disableScrollToTop = false
 
 # Menu
 [menu]
@@ -27,16 +33,19 @@ theme = "PaperMod"
   [[menu.main]]
     name = "Home"
     url  = "/"
+    weight = 1
 
   [[menu.main]]
     name = "Posts"
     url  = "/posts/"
+    weight = 2
 
   [[menu.main]]
     name = "About"
     url  = "/about/"
+    weight = 3
 
-
+# Syntax highlighting
 [markup]
   [markup.highlight]
     noClasses = false
